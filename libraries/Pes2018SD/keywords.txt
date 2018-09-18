@@ -1,0 +1,6 @@
+iniciarSD	KEYWORD1
+
+validarSD	KEYWORD1
+
+GuardarSDTem	KEYWORD1
+GuardarSDGPS	KEYWORD1

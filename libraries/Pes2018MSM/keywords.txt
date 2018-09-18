@@ -1,0 +1,7 @@
+iniciarGSM	KEYWORD1
+
+mensaje_sms	KEYWORD2
+
+recarga		KEYWORD3
+llamar		KEYWORD3
+
